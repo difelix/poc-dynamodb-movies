@@ -1,0 +1,6 @@
+amazon:
+  dynamodb:
+    endpoint: http://localhost:8000/Movie
+    accesskey: ui05e7
+    secretkey: xirws7
+    region: ap-southeast-1
